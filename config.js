@@ -1,11 +1,11 @@
 {   
     // Blog title
-    title: 'theorangeclock.github.io',
+    title: 'chinese4.github.io',
     // Blog description
     description: 'the lightest blog engine base on github issues.'
     github: {                            
-      owner: 'theorangeclock',
-      repo: 'theorangeclock.github.io'
+      owner: 'chinese4.github.io',
+      repo: 'github.com/chinese4/mill'
     }，
     theme: 'basic'
 }
